@@ -1,4 +1,5 @@
-my name is mohit sharma 
-i am learning github
-and its desktop
-my second change
+Hii all, My name is Mohit Sharma. 
+I'm learning version control recently so this repo is all about that.
+
+Such as how to create repo, make changes, add, commit, create a new branch, push, pull etc. by terminal with commands or Github Desktop (Good user interface).
+Thanks.
